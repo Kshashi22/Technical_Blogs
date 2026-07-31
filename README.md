@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/kanishkashashi/">
     <img src="https://img.shields.io/badge/LinkedIn-Kanishka%20Shashi-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://x.com/kshashi22">
+    <img src="https://img.shields.io/badge/X-https://x.com/kshashi22=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ##  About
@@ -110,6 +113,7 @@ using simple real-life examples.
 -  LinkedIn: https://www.linkedin.com/in/kanishkashashi/
 -  GitHub: https://github.com/Kshashi22
 -  Hashnode: https://hashnode.com/@Kshashi22
+-  X: https://x.com/kshashi22
 
 ---
 

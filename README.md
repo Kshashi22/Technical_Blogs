@@ -2,16 +2,19 @@
 
 <p align="center">
   <a href="https://hashnode.com/@Kshashi22">
-    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
+
   <a href="https://github.com/Kshashi22">
-    <img src="https://img.shields.io/badge/GitHub-Kshashi22-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Kshashi22-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/kanishkashashi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kanishka%20Shashi-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kanishka%20Shashi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+
   <a href="https://x.com/kshashi22">
-    <img src="https://img.shields.io/badge/X-https://x.com/kshashi22=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/X-@kshashi22-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 

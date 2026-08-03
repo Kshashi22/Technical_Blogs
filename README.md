@@ -48,7 +48,7 @@ https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-
 ---
 
 ### How React Works Internally
-A deep dive into the Virtual DOM, Reconciliation, Rendering Process, and React's update cycle.
+https://html-dev09.hashnode.dev/how-react-works-internally-virtual-dom-reconciliation-and-rendering?utm_source=hashnode&utm_medium=feed
 
 ---
 

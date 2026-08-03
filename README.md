@@ -52,14 +52,8 @@ https://html-dev09.hashnode.dev/how-react-works-internally-virtual-dom-reconcili
 
 ---
 
-### Building Scalable Systems
-Learn about:
-
-- Caching
-- Rate Limiting
-- Load Balancing
-- Observability
-- Scaling Strategies
+### Building Scalable Systems: Caching, Rate Limiting, and Observability
+https://nodej.hashnode.dev/building-scalable-systems-caching-rate-limiting-and-observability?utm_source=hashnode&utm_medium=feed
 
 ---
 

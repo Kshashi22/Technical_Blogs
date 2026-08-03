@@ -43,7 +43,7 @@ Whether you're a student, developer, or someone curious about technology, you'll
 # Featured Articles
 
 ### Kafka Explained Like You're 5
-Understanding Events, Partitions, Brokers & Consumer Groups through simple analogies.
+https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-and-consumer-groups?utm_source=hashnode&utm_medium=feed
 
 ---
 

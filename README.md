@@ -62,18 +62,8 @@ https://hashnode.com/edit/cmravmcnh000004la4mabfr2e
 
 ---
 
-### Async JavaScript Explained
-
-Understand:
-
-- Event Loop
-- Call Stack
-- Callback Queue
-- Promises
-- Async/Await
-
-using simple real-life examples.
-
+### Async/Await in JavaScript: Writing Cleaner Asynchronous Code
+https://hashnode.com/edit/cmnuid2uw01k629kaegp6e95v
 ---
 
 # Why Read My Blogs?

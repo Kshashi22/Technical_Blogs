@@ -42,12 +42,12 @@ Whether you're a student, developer, or someone curious about technology, you'll
 
 # Featured Articles
 
-### Kafka Explained Like You're 5
+### Kafka Explained Like You're 5: Events, Partitions, and Consumer Groups
 https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-and-consumer-groups?utm_source=hashnode&utm_medium=feed
 
 ---
 
-### How React Works Internally
+### How React Works Internally: Virtual DOM, Reconciliation, and Rendering
 https://html-dev09.hashnode.dev/how-react-works-internally-virtual-dom-reconciliation-and-rendering?utm_source=hashnode&utm_medium=feed
 
 ---

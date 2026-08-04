@@ -57,15 +57,8 @@ https://nodej.hashnode.dev/building-scalable-systems-caching-rate-limiting-and-o
 
 ---
 
-### Real-Time Systems Explained
-
-Different approaches for building real-time applications:
-
-- Polling
-- Long Polling
-- Server Sent Events (SSE)
-- WebSockets
-- Pub/Sub
+### Realtime Systems: Polling, WebSockets, SSE, and Pub/Sub
+https://hashnode.com/edit/cmravmcnh000004la4mabfr2e
 
 ---
 

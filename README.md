@@ -51,6 +51,11 @@ https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-
 
 ---
 
+### 10 TypeScript Tricks Every Developer Should Know (Explained Simply)
+https://javasblog.hashnode.dev/10-typescript-tricks-every-developer-should-know-explained-simply?utm_source=hashnode&utm_medium=feed
+
+---
+
 ### How React Works Internally: Virtual DOM, Reconciliation, and Rendering
 https://html-dev09.hashnode.dev/how-react-works-internally-virtual-dom-reconciliation-and-rendering?utm_source=hashnode&utm_medium=feed
 

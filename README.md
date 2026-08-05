@@ -42,6 +42,10 @@ Whether you're a student, developer, or someone curious about technology, you'll
 
 # Featured Articles
 
+### The Restaurant That Runs on Promises: A JavaScript Love Story
+https://javasblog.hashnode.dev/the-restaurant-that-runs-on-promises-a-javascript-love-story?utm_source=hashnode&utm_medium=feed
+
+---
 ### Kafka Explained Like You're 5: Events, Partitions, and Consumer Groups
 https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-and-consumer-groups?utm_source=hashnode&utm_medium=feed
 

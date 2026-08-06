@@ -76,6 +76,10 @@ https://hashnode.com/edit/cmnuid2uw01k629kaegp6e95v
 
 ---
 
+### Hidden Gems of JavaScript: Features You Probably Aren't Using (But Should Be)
+https://javasblog.hashnode.dev/hidden-gems-of-javascript-features-you-probably-aren-t-using-but-should-be?utm_source=hashnode&utm_medium=feed
+
+---
 # Why Read My Blogs?
 
 ✔ Beginner Friendly

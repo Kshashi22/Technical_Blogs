@@ -66,6 +66,11 @@ https://nodej.hashnode.dev/building-scalable-systems-caching-rate-limiting-and-o
 
 ---
 
+### Understanding Node.js Architecture: A Deep Dive
+https://nodej.hashnode.dev/understanding-node-js-architecture-a-deep-dive?utm_source=hashnode&utm_medium=feed
+
+---
+
 ### Realtime Systems: Polling, WebSockets, SSE, and Pub/Sub
 https://hashnode.com/edit/cmravmcnh000004la4mabfr2e
 

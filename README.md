@@ -81,6 +81,11 @@ https://hashnode.com/edit/cmnuid2uw01k629kaegp6e95v
 
 ---
 
+### Next.js Explained: Why It Became the Default React Framework
+https://html-dev09.hashnode.dev/next-js-explained-why-it-became-the-default-react-framework?utm_source=hashnode&utm_medium=feed
+
+---
+
 ### Hidden Gems of JavaScript: Features You Probably Aren't Using (But Should Be)
 https://javasblog.hashnode.dev/hidden-gems-of-javascript-features-you-probably-aren-t-using-but-should-be?utm_source=hashnode&utm_medium=feed
 

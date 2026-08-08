@@ -71,6 +71,11 @@ https://nodej.hashnode.dev/understanding-node-js-architecture-a-deep-dive?utm_so
 
 ---
 
+### Kubernetes: The Air Traffic Controller Your Apps Never Knew They Needed
+https://roleofgit.hashnode.dev/kubernetes-the-air-traffic-controller-your-apps-never-knew-they-needed?utm_source=hashnode&utm_medium=feed
+
+===
+
 ### Realtime Systems: Polling, WebSockets, SSE, and Pub/Sub
 https://hashnode.com/edit/cmravmcnh000004la4mabfr2e
 

@@ -94,6 +94,11 @@ https://html-dev09.hashnode.dev/next-js-explained-why-it-became-the-default-reac
 https://javasblog.hashnode.dev/hidden-gems-of-javascript-features-you-probably-aren-t-using-but-should-be?utm_source=hashnode&utm_medium=feed
 
 ---
+
+### Modem Magic!
+https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
+
+---
 # Why Read My Blogs?
 
 ✔ Beginner Friendly

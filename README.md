@@ -95,6 +95,11 @@ https://javasblog.hashnode.dev/hidden-gems-of-javascript-features-you-probably-a
 
 ---
 
+### Mastering TypeScript: Interfaces, Generics, and Unions Explained
+https://html-dev09.hashnode.dev/mastering-typescript-interfaces-generics-and-unions-explained?utm_source=hashnode&utm_medium=feed
+
+---
+
 ### Modem Magic!
 https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
 

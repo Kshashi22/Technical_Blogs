@@ -129,7 +129,6 @@ https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
 #  Connect With Me
 
 -  LinkedIn: https://www.linkedin.com/in/kanishkashashi/
--  GitHub: https://github.com/Kshashi22
 -  Hashnode: https://hashnode.com/@Kshashi22
 -  X: https://x.com/kshashi22
 

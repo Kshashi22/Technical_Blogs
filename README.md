@@ -100,6 +100,11 @@ https://html-dev09.hashnode.dev/mastering-typescript-interfaces-generics-and-uni
 
 ---
 
+### React Hooks Masterclass: useState, useEffect, and Custom Hooks
+https://nodej.hashnode.dev/react-hooks-masterclass-usestate-useeffect-and-custom-hooks
+
+---
+
 ### Modem Magic!
 https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
 

@@ -50,27 +50,26 @@ https://javasblog.hashnode.dev/the-restaurant-that-runs-on-promises-a-javascript
 https://html-dev09.hashnode.dev/kafka-explained-like-you-re-5-events-partitions-and-consumer-groups?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### 10 TypeScript Tricks Every Developer Should Know (Explained Simply)
 https://javasblog.hashnode.dev/10-typescript-tricks-every-developer-should-know-explained-simply?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### How React Works Internally: Virtual DOM, Reconciliation, and Rendering
 https://html-dev09.hashnode.dev/how-react-works-internally-virtual-dom-reconciliation-and-rendering?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### Building Scalable Systems: Caching, Rate Limiting, and Observability
 https://nodej.hashnode.dev/building-scalable-systems-caching-rate-limiting-and-observability?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### Understanding Node.js Architecture: A Deep Dive
 https://nodej.hashnode.dev/understanding-node-js-architecture-a-deep-dive?utm_source=hashnode&utm_medium=feed
 
 ---
+### React Fundamentals: Components, JSX, State, and Re-rendering
+https://nodej.hashnode.dev/react-fundamentals-components-jsx-state-and-re-rendering?utm_source=hashnode&utm_medium=feed
 
+---
 ### Kubernetes: The Air Traffic Controller Your Apps Never Knew They Needed
 https://roleofgit.hashnode.dev/kubernetes-the-air-traffic-controller-your-apps-never-knew-they-needed?utm_source=hashnode&utm_medium=feed
 
@@ -94,12 +93,10 @@ https://html-dev09.hashnode.dev/next-js-explained-why-it-became-the-default-reac
 https://javasblog.hashnode.dev/hidden-gems-of-javascript-features-you-probably-aren-t-using-but-should-be?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### Mastering TypeScript: Interfaces, Generics, and Unions Explained
 https://html-dev09.hashnode.dev/mastering-typescript-interfaces-generics-and-unions-explained?utm_source=hashnode&utm_medium=feed
 
 ---
-
 ### React Hooks Masterclass: useState, useEffect, and Custom Hooks
 https://nodej.hashnode.dev/react-hooks-masterclass-usestate-useeffect-and-custom-hooks
 
@@ -107,7 +104,6 @@ https://nodej.hashnode.dev/react-hooks-masterclass-usestate-useeffect-and-custom
 
 ### Modem Magic!
 https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
-
 ---
 # Why Read My Blogs?
 

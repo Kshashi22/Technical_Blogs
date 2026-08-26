@@ -101,6 +101,8 @@ https://html-dev09.hashnode.dev/mastering-typescript-interfaces-generics-and-uni
 https://nodej.hashnode.dev/react-hooks-masterclass-usestate-useeffect-and-custom-hooks
 
 ---
+### State Management in React: Context API, Prop Drilling, React.memo, useMemo, and useCallback
+https://nodej.hashnode.dev/state-management-in-react-context-api-prop-drilling-react-memo-usememo-and-usecallback?utm_source=hashnode&utm_medium=feed
 
 ### Modem Magic!
 https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed

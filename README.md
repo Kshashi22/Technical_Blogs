@@ -105,7 +105,8 @@ https://nodej.hashnode.dev/react-hooks-masterclass-usestate-useeffect-and-custom
 https://nodej.hashnode.dev/state-management-in-react-context-api-prop-drilling-react-memo-usememo-and-usecallback?utm_source=hashnode&utm_medium=feed
 
 ### Modem Magic!
-https://modem.hashnode.dev/modem-magic?utm_source=hashnode&utm_medium=feed
+https://modem.hashnode.dev/modem-magic
+
 ---
 # Why Read My Blogs?
 

@@ -143,12 +143,12 @@ https://modem.hashnode.dev/modem-magic
 
 If you enjoy my articles,
 
- Follow me on Hashnode
+Follow me on Hashnode
 
- Star my GitHub repositories
+Star my GitHub repositories
 
- Connect on LinkedIn
+Connect on LinkedIn
 
- Share the articles with fellow developers
+Share the articles with fellow developers
 
 Happy Learning! 
